@@ -1,1 +1,2 @@
 # scraping_modules
+The code is to show the implementation of beautifusoup for image retriveial and text scraping from building several search queries. This is only for learning purpose. It shows how dynamic page can be converted to static page using geckodriver. This helps in downloading image retrieval. I dont suggest scraping images from website without the consent of the owner of website. This is solely for learning and exploring different ways to create nested search queries.
